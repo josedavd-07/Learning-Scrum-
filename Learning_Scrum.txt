@@ -1,0 +1,28 @@
+
+Cuando hablamos  de agilidad hablamos de dos mundos la parte del ser y la parte del hacer.
+
+# Agilidad = Ser + Hacer
+
+# Ser = Mindset (Valores y Principios)
+
+# Agilismo = Hacer = Prácticas, Técnicas, Herramientas y FrameWorks
+
+# Que se utilizan precisamente para desarrollar la agilidad en las organizaciones.
+
+
+ ¿Que es Scrum?
+
+Scrum es un marco de trabajo mas utilizado a nivel mundial.
+
+Para comenzar cabe aclarar que Scrum  es un marco de trabajo y no una metodologia.
+
+las  metodologias nos indican que debemos hacer y como lo debemos hacer mientras que Scrum al ser un marco de trabajo se basa en el empirismo
+ y en el pensamiento lean.
+
+ El Scrum desde el empirismo:
+
+ # Se afirma que el conocimiento viene de la experiencia  y en base a lo observado se toman decisiones.
+
+El Scrum desde el pensamiento lean:
+
+# Se busca la reducccion de desperdicios y el enfoque en lo que realmente es importante o esencial para alcanzar los objetivos trazados.
